@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/gqzhao/NetBeansProjects/TaxiTripServer/src/java/com/newyork/taxi/service/AbstractFacade.java</file>
+            <file>file:/Users/gqzhao/NetBeansProjects/TaxiTripServer/src/java/com/newyork/taxi/service/ApplicationConfig.java</file>
+            <file>file:/Users/gqzhao/NetBeansProjects/TaxiTripServer/nbproject/build-impl.xml</file>
+            <file>file:/Users/gqzhao/NetBeansProjects/TaxiTripServer/web/index.html</file>
+            <file>file:/Users/gqzhao/NetBeansProjects/TaxiTripServer/src/java/com/newyork/taxi/GreenTrip.java</file>
+            <file>file:/Users/gqzhao/NetBeansProjects/TaxiTripServer/src/java/com/newyork/taxi/service/GreenTripFacadeREST.java</file>
+            <file>file:/Users/gqzhao/NetBeansProjects/TaxiTripServer/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/Users/gqzhao/NetBeansProjects/TaxiTripServer/src/java/com/newyork/taxi/ProcessedTaxiTrip.java</file>
+        </group>
+    </open-files>
+</project-private>
